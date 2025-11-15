@@ -283,7 +283,7 @@ Service Provider
     <h2 class="section-title">Contact Us</h2>
     <p style="text-align:center;">
       Ready to get started? Reach out today!<br>
-      Email: contact@geopad.com
+      Email: geopadservices@gmail.com 
     </p>
   </section>
 
